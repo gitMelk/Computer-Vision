@@ -22,9 +22,9 @@ Given a set of photos (all from the same camera) of a checker-board the required
 
 
 >![CAmeraCAlibration-1](img/CAmeraCAlibration1.png)
->*FTest image without correction.*
+>*Test image without correction.*
 
->![CAmeraCAlibration-1](img/CAmeraCAlibration2.png)
+>![CAmeraCAlibration-2](img/CAmeraCAlibration2.png)
 >*Test image after correction*
 
 # Image Denoising
